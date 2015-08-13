@@ -1,0 +1,20 @@
+{
+  "name": "ngstack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Gioni06/ngstack",
+  "authors": [
+    "Jonas Duri <jonas.duri@gmail.com>"
+  ],
+  "description": "ngstack is a curated list of angularjs resources",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic-ui": "~2.0.8"
+  }
+}
